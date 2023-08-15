@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivambindal1
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in playing with data...
+- 🌱 I’m currently learning data analytics..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shivambindal526@gmail.com
 
